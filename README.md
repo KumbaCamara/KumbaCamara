@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KumbaCamara
 - 👀 I’m interested in Software engineering 
-- 🌱 I’m currently learning Java and javascript 
+- 🌱 I’m currently learning Java
 - 📫 How to reach me via email: kumba.camara41@gmail.com
 
 <!---
